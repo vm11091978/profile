@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteBase /
+
+deny from all
